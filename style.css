@@ -10,8 +10,8 @@ img{
     filter: blur(var(--blur)) ;
 }
 
-.hl{
-color:var(--base);
+.hl{ 
+    color:var(--base);
 }
 
 body {
